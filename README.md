@@ -1,28 +1,65 @@
-<h1 align="center">Hi 👋, I'm jaims adlrin dcunja</h1>
-<h3 align="center">a beginner electronics engineer</h3>
+<h1 align="center">Hi 👋, I'm Jaims Aldrin Dcunja</h1>
+<h3 align="center">An Aspiring Electronics Engineer | Embedded Systems Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesaldrin22&label=Profile%20views&color=0e75b6&style=flat" alt="jamesaldrin22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesaldrin22" alt="jamesaldrin22" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **embedded systems**
-
-- 📫 How to reach me **jaimsaldrin2211@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jaims aldrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaims aldrin" height="30" width="40" /></a>
-<a href="https://fb.com/james aldrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="james aldrin" height="30" width="40" /></a>
-<a href="https://instagram.com/aldrin_dcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldrin_dcu" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jamesaldrin22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesaldrin22&show_icons=true&locale=en&layout=compact" alt="jamesaldrin22" /></p>
+### 🚀 About Me
+- 🔭 I’m currently working on **Embedded Systems & IoT Projects**
+- 🌱 I’m learning **PCB Design, Firmware Development, and AI for Edge Computing**
+- 💡 I love **exploring new tech trends & building innovative solutions**
+- 📫 Reach me at **jaimsaldrin2211@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesaldrin22&show_icons=true&locale=en" alt="jamesaldrin22" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesaldrin22&" alt="jamesaldrin22" /></p>
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/jaims-aldrin" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://fb.com/james-aldrin" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/aldrin_dcu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠 Languages & Tools
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamesaldrin22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesaldrin22&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesaldrin22&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+✨ **Feel free to customize this further to match your personality!** ✨
+
+To use this, simply create a `README.md` file in your GitHub profile repository and paste the code inside. Want more animations or interactivity? Let me know, and I can add extra touches!
